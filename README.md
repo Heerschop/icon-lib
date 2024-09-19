@@ -1,2 +1,3 @@
-# icon-lib
-Icon Library
+```bash
+(cd viewer && npx vite)
+```

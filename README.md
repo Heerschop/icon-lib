@@ -1,3 +1,3 @@
 ```bash
-(cd viewer && npx vite)
+npx vite
 ```
